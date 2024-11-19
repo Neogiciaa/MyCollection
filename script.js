@@ -154,3 +154,9 @@ for (let i=0; i < collection.length; i++) {
     li.appendChild(card);
     section.appendChild(li);
 }
+
+window.onload = function() {
+    const audio = document.querySelector('audio');
+    audio.volume = 0.01;
+};
+
