@@ -5,7 +5,7 @@ const collection = [
         "group": 'Non-Sporting',
         "height": '12 to 16 inches',
         "weight": '50 to 54 pounds',
-        "description": "English Bulldogs are smart, loyal and gentle. The bulldogs have a sturdy build and they are good with children as well as other pets. You should keep in mind that they need some extra care in their teeth and gum area due to their extra strong jawline. Also, there is wheezing, drooling and snoring on the line. ",
+        "description": "English Bulldogs are smart, loyal and gentle. The bulldogs have a sturdy build and they are good with children as well as other pets. You should keep in mind that they need some extra care in their teeth and gum area due to their extra strong jawline.",
         "energyLevel": 'Medium',
         "link": 'https://en.wikipedia.org/wiki/Bulldog'
     },
